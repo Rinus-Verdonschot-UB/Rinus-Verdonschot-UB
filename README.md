@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Rinus-Verdonschot-UB
+- 👀 I’m interested in Python, data mining
+- 🌱 I’m currently learning Flask
+- 💞️ I’m looking to collaborate on connecting data systems.
+- 📫 How to reach me: rinus.verdonschot@maastrichtuniversity.nl
+- 😄 Pronouns: his/him
+- ⚡ Fun fact: For the one who always stands still, there is no way back.
